@@ -167,11 +167,4 @@ Yes, they can be harmful if the people are using them without knowing
 * Though, they are a really good technology for many specific application
 * Should not be used extensively for shaping public opinion
 
-# Bibliography
-
-## Bibliography
-
-* Eli Pariser, "The Filter Bubble", 2011
-* Cass Sunstein, "Republic.com" (?)
-* Evgeny Morozov, [*Your Own Facts*](http://www.nytimes.com/2011/06/12/books/review/book-review-the-filter-bubble-by-eli-pariser.html), NY Times, 2011
-* [Eli Pariser's TED Talk](https://www.ted.com/talks/eli_pariser_beware_online_filter_bubbles)
+## References
