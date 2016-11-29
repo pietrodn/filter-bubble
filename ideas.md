@@ -1,6 +1,5 @@
 # Interesting quotes
 
-* “A squirrel dying in front of your house may be more relevant to your interests right now than people dying in Africa.” (M. Zuckerberg)
 * “The technology will be so good, it will be very hard for people to watch or consume something that has not in some sense been tailored for them.” (Eric Schmidt)
 
 
