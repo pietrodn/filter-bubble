@@ -8,4 +8,6 @@
     navigation: "horizontal"
     lang: "en"
     bibliography: "bibliography.bib"
+    biblio-title: "References"
+    biblatexoptions: "citestyle=authoryear"
 ---

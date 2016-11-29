@@ -179,5 +179,3 @@ Yes, they can be harmful if the people are using them without knowing
 
 * Though, they are a really good technology for many specific application
 * Should not be used extensively for shaping public opinion
-
-## References
