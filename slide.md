@@ -24,9 +24,10 @@ In this presentation, I will show that:
 
 * filters alter our perception of the world
 * information given to citizens should be not filtered according to what they like
-* democracy doesn't work without a good flow of information
-* personalization filter are good for some specific domains, though
+* even if they seem fair, **these algorithms are not neutral**
 
+
+# Concerns about the Filter Bubble
 
 ## The dangers of personalization
 The book *The Filter Bubble* by Eli Pariser [@pariser2011] mentions several risks about personalizing filters:
@@ -39,33 +40,90 @@ The book *The Filter Bubble* by Eli Pariser [@pariser2011] mentions several risk
 * Censorship
 * Serendipity
 
+## Information
+
+* **Friendly world syndrome**: some of the most important problem don't reach our view at all
+* We can miss major news and events
+    * This was not possible with e.g. traditional newspapers
+* In the filter bubble, the **public sphere** is less relevant
+* Filters block **important, unpleasant things** that we *should* care about
+    * Some topics will always be *not likable*: war, homelessness, poverty...
+* *Relevance* is the only metric, and *importance* matters less
+* The **choice** about what to read is no more in readers' hands
+    * Contents inside your personal bubble aren't shown
+* Often there's no way to disable the personalization
+
+
+## Aspirational self and actual self
+* Netflix queue example
+* Personalization privileges the actual self
+* Balanced information diet vs. information junk food
+* Consuming information "near" to us is easy and pleasurable
+* Consuming challenging info is difficult
+
+# Facebook and Google's bubbles
 
 ## Facebook is too friendly!
 
-Suppose you are a liberal with both liberals and conservatives in your Facebook friends.
+Suppose that you are a Facebook user and you identify as a **liberal**.
+You have both liberals and conservatives friends.
 
-* You get more posts  which reflect what you like.
-* Even if you have some conservative friends, you may not see their updates in the News Feed.
-* What if everyone of us is in a personal echo chamber?
-* How big is this problem?
+* In the News Feed, you get more posts which reflect what you like
+* You may not see conservatives' stories at all, if you interact less with your conservative friends
+* **Cross-cutting stories** (those different from our viewpoint) are less likely to reach us
+    * How big is this phenomenon?
 
 ## Facebook study (1)
 
-Facebook published a study [@bakshy2015] on *Science* about how likely are users to view and interact with cross-cutting content.
-The content may be:
+Facebook published a study [@bakshy2015] on *Science* about how likely are users to **view and interact with *cross-cutting content***.
 
-1. shared by random others (random)
-2. shared by friends (potential from network)
-3. effectively shown in users' News Feeds (exposed)
-4. clicked by users (selected)
+![Exposure stages of news stories](images/ExposureStages.pdf){width=70%}
+
+1. *Potential from network*: shared by friends
+2. *Exposed*: effectively shown in users' News Feeds
+3. *Selected*: clicked by the user
 
 ## Facebook study (2)
 
-![Average ideological diversity of content](images/CrossCuttingTotal.pdf){width=80%}
+![Percentage of cross-cutting stories that gets through the stages of exposure.](images/CrossCuttingTotal.pdf)
 
 ## Facebook study (3)
 
-![Proportion of individuals with at least one cross-cutting story](images/CrossCuttingAtLeastOne.pdf){width=90%}
+Conclusions:
+
+* The **friendship network** is the most important factor limiting the mix of content encountered in social media.
+    * if I have only friends of the same political affiliation, the filter bubble is obvious
+* **Individual choice** influences the exposure to cross-cutting content more than the News Feed filtering.
+* The effect of **News Feed ranking** is limited:
+    * -5% for liberals
+    * -8% for conservatives
+
+\alert{Thus, Facebook says, any "filter bubble" is not due to the News Feed selection algorithm.}
+
+## Facebook study: criticism
+
+### Limitations of the study
+
+* The building of the **friendship network** is not independent from Facebook's algorithms.
+    * Friends are only partly from "offline" connections
+    * Facebook suggests both pages to like and new friends
+* What about **sponsored content**?
+
+### Methodological issues
+
+* **Sample** of the study: people which declare their political affiliation.
+    * may not be representative of the entire Facebook community
+* Independent researchers can't access Facebook data and analyze it.
+
+## The position is everything
+
+* The **position** of a story in the News Feed is very important
+    * the ranking algorithm may be used to promote some stories and not others
+    * money can buy rankings!
+    * even if the algorithm is "fair" *now*, what about the future?
+
+![Click rate depends on the position of the story in the News Feed.](images/PositionNewsFeed.pdf){width=100%}
+
 
 ## Google: the classical relevance model
 **Relevance** according to **PageRank**: a page is important if it's linked by important pages.
@@ -88,49 +146,7 @@ The content may be:
 * More and more difficult to find *what we don't know we want*.
 
 
-# Concerns about the Filter Bubble
 
-## Freedom and autonomy
-
-> “To be free, you have to be able not only to do what you want, but to know what's possible to do." (Eli Pariser)
-
-* Loop: we read only what we're interested in because of the recommendation
-* We get trapped in a local maximum of preference, and it's difficult to escape
-* Self-fulfilling prophecy
-* Inside the filter bubble we're unable to reach new ideas and point of view
-* *Serendipity* is harmed
-
-
-## Information
-
-* Friendly world syndrome: some of the most important problem don't reach our view at all
-* We can miss major news and events
-* In the filter bubble, the public sphere is less relevant
-* Filters block important, unpleasant things that we *should* care about
-* Some topics will always be *not likable*, though they are important.
-    * War, homelessness, poverty, ...
-* Algorithms don't have embedded ethics
-* Relevance shouldn't be the only metric
-
-
-## Comparison with traditional media
-* Pull (active) vs. push (passive) news fetching
-* NYT journos aren't allowed to see how many clicks their articles got
-* Curation by human gatekeepers vs. disintermediation
-* Media that prioritize importance over relevance are useful
-
-
-## Filter bubble is always on
-* You don't decide (nor see) what's in it
-* You don't see, from the inside, what's out.
-
-
-## Aspirational self and actual self
-* Netflix queue example
-* Personalization privileges the actual self
-* Balanced information diet vs. information junk food
-* Consuming information "near" to us is easy and pleasurable
-* Consuming challenging info is difficult
 
 
 # Solutions and remedies
