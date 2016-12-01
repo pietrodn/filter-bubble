@@ -2,25 +2,33 @@
 
 ## A provoking quote
 
-> “A squirrel dying in front of your house may be more relevant to your interests right now than people dying in Africa.” – Mark Zuckerberg
+> “A squirrel dying in front of your house may be more relevant to your interests right now than people dying in Africa.”
 
+> – Mark Zuckerberg
+
+
+## What is the filter bubble?
+![The Internet is risking to become a "personal echo chamber."](images/FilterBubble.png)
 
 ## Definitions
 
+### Personalized search
+
 > **Personalized search** refers to search experiences that are tailored specifically to an individual's interests by incorporating information about the individual beyond specific query provided. (Wikipedia)
+
+### Filter bubble
 
 > A **filter bubble** is a result of a personalized search in which a website algorithm selectively guesses what information a user would like to see based on information about the user (such as location, past click behavior and search history). (Wikipedia)
 
+### Information pluralism
 
-## Amazon's filter bubble
-![A "real world" recommender system](images/recommender_shop.jpg){width=80%}
-
+TODO
 
 ## Personalizing filters and information
 
 In this presentation, I will show that:
 
-> **Personalized search filters may be dangerous for information**, if they are applied without people knowing
+> **Personalized search filters may be harmful for the plurality of information**, and citizens and readers are not fully aware of those.
 
 * filters alter our perception of the world
 * information given to citizens should be not filtered according to what they like
@@ -40,6 +48,7 @@ The book *The Filter Bubble* by Eli Pariser [@pariser2011] mentions several risk
 * Censorship
 * Serendipity
 
+
 ## Information
 
 * **Friendly world syndrome**: some of the most important problem don't reach our view at all
@@ -54,14 +63,7 @@ The book *The Filter Bubble* by Eli Pariser [@pariser2011] mentions several risk
 * Often there's no way to disable the personalization
 
 
-## Aspirational self and actual self
-* Netflix queue example
-* Personalization privileges the actual self
-* Balanced information diet vs. information junk food
-* Consuming information "near" to us is easy and pleasurable
-* Consuming challenging info is difficult
-
-# Facebook and Google's bubbles
+# Case study: Facebook (and Google)
 
 ## Facebook is too friendly!
 
@@ -85,7 +87,7 @@ Facebook published a study [@bakshy2015] on *Science* about how likely are users
 
 ## Facebook study (2)
 
-![Percentage of cross-cutting stories that gets through the stages of exposure.](images/CrossCuttingTotal.pdf)
+![Percentage of cross-cutting stories that gets through the stages of exposure.](images/CrossCuttingTotal.pdf){height=100%}
 
 ## Facebook study (3)
 
@@ -104,7 +106,7 @@ Conclusions:
 
 ### Limitations of the study
 
-* The building of the **friendship network** is not independent from Facebook's algorithms.
+* Underlying (false) assumption: the building of the **friendship network** is independent from Facebook's algorithms
     * Friends are only partly from "offline" connections
     * Facebook suggests both pages to like and new friends
 * What about **sponsored content**?
@@ -117,10 +119,11 @@ Conclusions:
 
 ## The position is everything
 
-* The **position** of a story in the News Feed is very important
-    * the ranking algorithm may be used to promote some stories and not others
-    * money can buy rankings!
-    * even if the algorithm is "fair" *now*, what about the future?
+The **position** of a story in the News Feed is very important
+
+* the ranking algorithm may be used to promote some stories and not others
+* money can buy rankings!
+* even if the algorithm is "fair" *now*, what about the future?
 
 ![Click rate depends on the position of the story in the News Feed.](images/PositionNewsFeed.pdf){width=100%}
 
@@ -145,46 +148,49 @@ Conclusions:
     2. Travel and vacation information
 * More and more difficult to find *what we don't know we want*.
 
+Researchers found out that in Google searches **11.7% of results show differences** due to personalization. [@hannak2013]
 
-
-
-
-# Solutions and remedies
+# Proposed remedies and counter-objections
 
 ## Moralizing filters
 
-* The Internet is showing off what we want to see, but not **what we need to see**
-* What if one day Google could urge us to stop obsessing over Lady Gaga’s videos and instead pay attention to Darfur?
-* Should someone decide what we need to see? [@morozov2011]
-* This is **paternalism**.
+Problem: the Internet is showing off what we *want* to see, but not what we *need* to see.
 
-## Making the algorithms transparent
+* What if one day Google could urge us to stop obsessing over Lady Gaga's videos and instead pay attention to Darfur?
+* Would it be a good idea to make multinational companies **moralizing agents**?
+    * Monopoly of editorial power
+    * **Paternalism**
+* Algorithms cannot compute "what should be seen" [@morozov2011]
 
-* Even if they are public, we may not understand them
-* ...
+We need media that prioritizes **importance** over relevance, but:
 
-## On-off button
+* this requires human intervention and choice
+* using an algorithm is still a non-neutral choice!
 
-> “Google or Facebook could place a slider bar running from “only stuff I like” to “stuff other people like that I’ll probably hate” at the top of search results and the News Feed”
+## More control by the people
 
-## Government oversight
+### Make the algorithms transparent
 
-Slide
+* Knowing at least **which personal data** is used to make the recommendation may prove useful
+* The inner working of complex neural networks and machine learning agents is not explorable
+* Even if published, we may not understand those algorithms
+* They are often **trade secrets**
 
-# Counter-objections
+### Government oversight
 
-## "But they are useful!"
+Problem: the personalizing filters are not regulated in a **democratic** way.
+Governments could banish personalization or control it in some form.
 
-* Filters help eliminating the noise in the information society
-* ...
+* Information should be independent by the Government
+* The convergence of power of multinational companies and governments is dangerous
 
-## "We can just shut them off"
+## Turn off the personalization!
 
-Not so simple.
-
-## They are just a natural evolution of technology
-
-Maybe. Or maybe not!
+* What if we could **turn off the personalization**?
+* Personalization is the key feature of most services
+    * Facebook without personalization would be... Twitter?
+* Without personalization **ads would be less relevant** and profitable: no economic incentive to do so
+* Users should at least know **whether** personalization is enabled or not.
 
 
 # Conclusion

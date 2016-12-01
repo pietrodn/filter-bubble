@@ -1,11 +1,10 @@
 ---
     author: "Pietro De Nicolao"
     date: \today
-    title: "The Filter Bubble: a threat for free information?"
+    title: "The Filter Bubble: a threat for plural information?"
     subtitle: "The dangers of personalizing filters"
     institute: "Computer Ethics (2016-2017), Politecnico di Milano"
     toc: true
-    navigation: "horizontal"
     lang: "en"
     bibliography: "bibliography.bib"
     biblio-title: "References"
