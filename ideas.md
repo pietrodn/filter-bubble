@@ -1,6 +1,5 @@
 # TODO
 
-* Define "plurality of information"
 * Find papers (reply to FB one)
 * Moralizing technology debate
 * SHORT conclusions

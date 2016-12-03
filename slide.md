@@ -6,7 +6,6 @@
 
 > – Mark Zuckerberg
 
-
 ## What is the filter bubble?
 ![The Internet is risking to become a "personal echo chamber."](images/FilterBubble.png)
 
@@ -14,15 +13,21 @@
 
 ### Personalized search
 
+\footnotesize
+
 > **Personalized search** refers to search experiences that are tailored specifically to an individual's interests by incorporating information about the individual beyond specific query provided. (Wikipedia)
 
 ### Filter bubble
 
+\footnotesize
+
 > A **filter bubble** is a result of a personalized search in which a website algorithm selectively guesses what information a user would like to see based on information about the user (such as location, past click behavior and search history). (Wikipedia)
 
-### Information pluralism
+### Political pluralism in the media
 
-TODO
+\footnotesize
+
+> **Political pluralism** in the media refers to the fair and diverse representation of and expression by (i.e. passive and active access) various political and ideological groups, including minority viewpoints and interests, in the media. [@leuven2009]
 
 ## Personalizing filters and information
 
