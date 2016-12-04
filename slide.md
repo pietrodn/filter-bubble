@@ -172,22 +172,36 @@ We need media that prioritizes **importance** over relevance, but:
 * this requires human intervention and choice
 * using an algorithm is still a non-neutral choice!
 
-## More control by the people
 
-### Make the algorithms transparent
+## Make the algorithms transparent
 
-* Knowing at least **which personal data** is used to make the recommendation may prove useful
-* The inner working of complex neural networks and machine learning agents is not explorable
-* Even if published, we may not understand those algorithms
+\footnotesize
+
+> I’m of the opinion that algorithms must be made more transparent, so that one can inform oneself as an interested citizen about questions like ‘what influences my behaviour on the internet and that of others?’
+> Algorithms, when they are not transparent, can lead to a distortion of our perception, they can shrink our expanse of information.
+
+> – Angela Merkel [-@merkel2016]
+
+\normalsize
+
+* The inner working of complex neural networks and machine learning agents is not intuitively understandable
+    * Even if published, we may not understand those algorithms
 * They are often **trade secrets**
+* Knowing at least **which personal data** is used to make the recommendation may prove useful
 
-### Government oversight
 
-Problem: the personalizing filters are not regulated in a **democratic** way.
-Governments could banish personalization or control it in some form.
+## Facebook News Feed settings
+
+![Facebook lets users customize some parameters of the News Feed algorithm](images/NewsFeedCustomize.png){width=80%}
+
+## Government oversight
+
+Problem: the personalizing filters are not regulated in a **democratic** way
+Governments could banish personalization or control it in some form
 
 * Information should be independent by the Government
 * The convergence of power of multinational companies and governments is dangerous
+
 
 ## Turn off the personalization!
 
@@ -195,7 +209,7 @@ Governments could banish personalization or control it in some form.
 * Personalization is the key feature of most services
     * Facebook without personalization would be... Twitter?
 * Without personalization **ads would be less relevant** and profitable: no economic incentive to do so
-* Users should at least know **whether** personalization is enabled or not.
+* Users should at least know **whether** personalization is enabled or not
 
 
 # Conclusion
