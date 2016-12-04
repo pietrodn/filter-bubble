@@ -7,7 +7,7 @@
 > – Mark Zuckerberg
 
 ## What is the filter bubble?
-![The Internet is risking to become a "personal echo chamber."](images/FilterBubble.png)
+![*A unique universe of information for each of us* [@pariser2011]](images/FilterBubble.png)
 
 ## Definitions
 
@@ -33,7 +33,7 @@
 
 In this presentation, I will show that:
 
-> **Personalized search filters may be harmful for the plurality of information**, and citizens and readers are not fully aware of those.
+> **Personalized search filters may be harmful for the plurality of information**, and citizens and readers are not fully aware of those
 
 * filters alter our perception of the world
 * information given to citizens should be not filtered according to what they like
@@ -43,7 +43,8 @@ In this presentation, I will show that:
 # Concerns about the Filter Bubble
 
 ## The dangers of personalization
-The book *The Filter Bubble* by Eli Pariser [@pariser2011] mentions several risks about personalizing filters:
+
+The book *The Filter Bubble* by Eli Pariser [@pariser2011] describes many risks associated with it:
 
 * Data collection and privacy
 * Democracy
@@ -72,8 +73,7 @@ The book *The Filter Bubble* by Eli Pariser [@pariser2011] mentions several risk
 
 ## Facebook is too friendly!
 
-Suppose that you are a Facebook user and you identify as a **liberal**.
-You have both liberals and conservatives friends.
+Suppose that you are a Facebook user and you identify as a **liberal**, and you have both liberals and conservatives friends.
 
 * In the News Feed, you get more posts which reflect what you like
 * You may not see conservatives' stories at all, if you interact less with your conservative friends
@@ -98,14 +98,14 @@ Facebook published a study [@bakshy2015] on *Science* about how likely are users
 
 Conclusions:
 
-* The **friendship network** is the most important factor limiting the mix of content encountered in social media.
+* The **friendship network** is the most important factor limiting the mix of content encountered in social media
     * if I have only friends of the same political affiliation, the filter bubble is obvious
-* **Individual choice** influences the exposure to cross-cutting content more than the News Feed filtering.
+* **Individual choice** influences the exposure to cross-cutting content more than the News Feed filtering
 * The effect of **News Feed ranking** is limited:
     * -5% for liberals
     * -8% for conservatives
 
-\alert{Thus, Facebook says, any "filter bubble" is not due to the News Feed selection algorithm.}
+\alert{Thus, Facebook says, any "filter bubble" is not due to the News Feed selection algorithm}
 
 ## Facebook study: criticism
 
@@ -118,9 +118,9 @@ Conclusions:
 
 ### Methodological issues
 
-* **Sample** of the study: people which declare their political affiliation.
+* **Sample** of the study: people which declare their political affiliation
     * may not be representative of the entire Facebook community
-* Independent researchers can't access Facebook data and analyze it.
+* Independent researchers can't access Facebook data and analyze it
 
 ## The position is everything
 
@@ -134,7 +134,7 @@ The **position** of a story in the News Feed is very important
 
 
 ## Google: the classical relevance model
-**Relevance** according to **PageRank**: a page is important if it's linked by important pages.
+**Relevance** according to **PageRank**: a page is important if it's linked by important pages
 
 * Each incoming link, weighted by the relevance of its source, contributes to the relevance of the page
 * **Universal ranking**: the PageRank algorithm is independent from the user who's querying
@@ -151,15 +151,15 @@ The **position** of a story in the News Feed is very important
 * Example: a search for "Egypt" can yield different results:
     1. Protests and political issues
     2. Travel and vacation information
-* More and more difficult to find *what we don't know we want*.
+* More and more difficult to find *what we don't know we want*
 
-Researchers found out that in Google searches **11.7% of results show differences** due to personalization. [@hannak2013]
+Researchers found out that in Google searches **11.7% of results show differences** due to personalization [@hannak2013]
 
 # Proposed remedies and counter-objections
 
 ## Moralizing filters
 
-Problem: the Internet is showing off what we *want* to see, but not what we *need* to see.
+Problem: the Internet is showing off what we *want* to see, but not what we *need* to see
 
 * What if one day Google could urge us to stop obsessing over Lady Gaga's videos and instead pay attention to Darfur?
 * Would it be a good idea to make multinational companies **moralizing agents**?
