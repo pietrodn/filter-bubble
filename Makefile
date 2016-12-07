@@ -9,10 +9,10 @@ BIBLIO = bibliography.bib
 
 all: slide.pdf
 
-$(TEXFILE): $(META) $(SOURCE) $(HEADER) $(BIBLIO)
+$(TEXFILE): $(META) $(SOURCE) $(HEADER) $(BIBLIO) images
 	pandoc -H $(HEADER) -f markdown -t beamer --biblatex -s -o $(TEXFILE) $(META) $(SOURCE)
 
-$(PDFFILE): $(TEXFILE) $(BIBLIO)
+$(PDFFILE): $(TEXFILE) $(BIBLIO) images
 	latexmk -pdf slide
 
 clean:
