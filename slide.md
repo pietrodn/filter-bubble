@@ -80,6 +80,8 @@ Suppose that you are a Facebook user and you identify as a **liberal**, and you 
 * **Cross-cutting stories** (those different from our viewpoint) are less likely to reach us
     * How big is this phenomenon?
 
+**89.4% of under-30 Italians** uses Facebook [@censis2016]
+
 ## Facebook: Exposure to ideologically diverse content
 
 Facebook published a study [@bakshy2015] on *Science* about how likely are users to **view and interact with *cross-cutting content***.
@@ -122,9 +124,9 @@ Facebook published a study [@bakshy2015] on *Science* about how likely are users
 
 ## The position is everything
 
-The **position** of a story in the News Feed is very important
+The **ranking** of a story in the News Feed is very important!
 
-* the ranking algorithm may be used to promote some stories and not others
+* the position in the News Feed may be used to promote some stories and not others
 * money can buy rankings!
 * even if the algorithm is "fair" *now*, what about the future?
 
