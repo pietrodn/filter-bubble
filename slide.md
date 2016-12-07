@@ -33,7 +33,7 @@
 
 In this presentation, I will show that:
 
-> **Personalized search filters may be harmful for the plurality of information**, and citizens and readers are not fully aware of those
+> **Personalized content filters may be harmful for the plurality of information**, when citizens and readers are not fully aware of them
 
 * filters alter our perception of the world
 * information given to citizens should be not filtered according to what they like
@@ -58,16 +58,15 @@ The book *The Filter Bubble* by Eli Pariser [@pariser2011] describes many risks 
 ## Information
 
 * **Friendly world syndrome**: some of the most important problem don't reach our view at all
-* We can miss major news and events
-    * This was not possible with e.g. traditional newspapers
+    * We can miss major news and events
+    * This is not possible with traditional newspapers
 * In the filter bubble, the **public sphere** is less relevant
 * Filters block **important, unpleasant things** that we *should* care about
     * Some topics will always be *not likable*: war, homelessness, poverty...
 * *Relevance* is the only metric, and *importance* matters less
 * The **choice** about what to read is no more in readers' hands
-    * Contents inside your personal bubble aren't shown
-* Often there's no way to disable the personalization
-
+    * Readers are not exposed to contents inside their personal bubble
+* Worst case scenario: **deliberate use of filters to shape the public opinion**
 
 # Case study: Facebook (and Google)
 
@@ -188,6 +187,7 @@ We need media that prioritizes **importance** over relevance, but:
     * Even if published, we may not understand those algorithms
 * They are often **trade secrets**
 * Knowing at least **which personal data** is used to make the recommendation may prove useful
+* **Open-sourcing** some critical services may be a solution
 
 
 ## Facebook News Feed settings
@@ -212,11 +212,14 @@ Governments could banish personalization or control it in some form
 * Users should at least know **whether** personalization is enabled or not
 
 
-# Conclusion
+# Conclusions
 
-## Are personalizing filter harmful?
+## Conclusions
 
-Yes, they can be harmful if the people are using them without knowing
-
-* Though, they are a really good technology for many specific application
-* Should not be used extensively for shaping public opinion
+* Personalization is **pervasive**
+* Personalizing filters return a **distorted image** of the world
+* They are a really good technology for many specific applications
+    * "Too good" to get rid of them
+    * Users should be aware of them
+    * Users should be able to control them
+* Biggest risk: **deliberate use of filters to shape the public opinion**
