@@ -75,28 +75,26 @@ The book *The Filter Bubble* by Eli Pariser [@pariser2011] describes many risks 
 
 Suppose that you are a Facebook user and you identify as a **liberal**, and you have both liberals and conservatives friends.
 
-* In the News Feed, you get more posts which reflect what you like
+* News Feed recommendation algorithm: **you get more posts which reflect what you like**
 * You may not see conservatives' stories at all, if you interact less with your conservative friends
 * **Cross-cutting stories** (those different from our viewpoint) are less likely to reach us
     * How big is this phenomenon?
 
-## Facebook study (1)
+## Facebook: Exposure to ideologically diverse content
 
 Facebook published a study [@bakshy2015] on *Science* about how likely are users to **view and interact with *cross-cutting content***.
 
 ![Exposure stages of news stories](images/ExposureStages.pdf){width=70%}
 
-1. *Potential from network*: shared by friends
-2. *Exposed*: effectively shown in users' News Feeds
-3. *Selected*: clicked by the user
+1. *Potential from network*: all the content shared by friends
+2. *Exposed*: content effectively shown in users' News Feeds
+3. *Selected*: content clicked by the user
 
-## Facebook study (2)
+## % cross-cutting content vs. exposure stage on Facebook
 
-![Percentage of cross-cutting stories that gets through the stages of exposure.](images/CrossCuttingTotal.pdf){height=100%}
+![](images/CrossCuttingTotal_flat.pdf){height=75%}
 
-## Facebook study (3)
-
-Conclusions:
+## Facebook study: conclusions
 
 * The **friendship network** is the most important factor limiting the mix of content encountered in social media
     * if I have only friends of the same political affiliation, the filter bubble is obvious
