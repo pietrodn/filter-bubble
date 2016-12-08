@@ -4,7 +4,7 @@
 
 > “A squirrel dying in front of your house may be more relevant to your interests right now than people dying in Africa.”
 
-> – Mark Zuckerberg
+> – Mark Zuckerberg (Facebook CEO)
 
 ## What is the filter bubble?
 ![*A unique universe of information for each of us* [@pariser2011, p. 10]](images/FilterBubble.png){width=85%}
@@ -37,6 +37,7 @@ In this presentation, I will show that:
 
 * filters alter our perception of the world
 * information given to citizens should be not filtered according to what they like
+* *relevance* shouldn't be the only metric to suggest content to show
 * even if they seem fair, **these algorithms are not neutral**
 
 
@@ -61,25 +62,40 @@ The book *The Filter Bubble* [@pariser2011] describes many risks associated with
     * We can miss major news and events
     * This is not possible with traditional newspapers
 * In the filter bubble, the **public sphere** is less relevant
-* Filters block **important, unpleasant things** that we *should* care about
-    * Some topics will always be *not likable*: war, homelessness, poverty...
-* *Relevance* is the only metric, and *importance* matters less
+
 * **Autonomy** of the reader is compromised
     * Readers are not exposed to contents inside their personal bubble
 * Worst case scenario: **deliberate use of filters to shape the public opinion**
 
-# Case study: Facebook (and Google)
+## Importance vs. Relevance
+
+Two metrics can be defined for news stories:
+
+* **Importance**: intrinsic "value" of a story with respect to society
+* **Relevance**: probability that a story will be liked by the user; performance index of the recommender system
+
+Recommender systems (personalizing filters) are **relevance maximizers**
+
+* Filters block **important, unpleasant things** that we *should* care about
+    * Some topics will always be *not likable*: war, homelessness, poverty...
+* We need media that prioritizes **importance** over relevance, but:
+    * this requires human intervention and choice
+    * using an algorithm is still a non-neutral choice!
+
+# Case study: Facebook News Feed
 
 ## Facebook is too friendly!
 
 Suppose that you are a Facebook user and you identify as a **liberal**, and you have both liberals and conservatives friends.
 
-* News Feed recommendation algorithm: **you get more posts which reflect what you like**
+* News Feed recommendation algorithm: **you get more posts which reflect what you like** (relevant to you)
 * You may not see conservatives' stories at all, if you interact less with your conservative friends
 * **Cross-cutting stories** (those different from our viewpoint) are less likely to reach us
     * How big is this phenomenon?
 
 **89.4% of under-30 Italians** uses Facebook [@censis2016]
+
+* The issue of biased content is certainly important!
 
 ## Facebook: Exposure to ideologically diverse content
 
@@ -121,9 +137,9 @@ Facebook published a study [@bakshy2015] on *Science* about how likely are users
     * may not be representative of the entire Facebook community
 * Independent researchers can't access Facebook data and analyze it
 
-## The position is everything
+## Ranking = visibility
 
-The **ranking** of a story in the News Feed is very important!
+The **position** (rank) of a story in the News Feed is very important!
 
 * the position in the News Feed may be used to promote some stories and not others
 * money can buy rankings!
@@ -138,16 +154,15 @@ The **ranking** of a story in the News Feed is very important!
 
 Problem: the Internet is showing off what we *want* to see, but not what we *need* to see
 
-* What if one day Google could urge us to stop obsessing over Lady Gaga's videos and instead pay attention to Darfur?
-* Would it be a good idea to make multinational companies **moralizing agents**?
-    * Monopoly of editorial power
-    * **Paternalism**
 * Algorithms cannot compute "what should be seen" [@morozov2011]
+* What if one day Google could urge us to stop obsessing over Lady Gaga's videos and instead pay attention to Darfur?
 
-We need media that prioritizes **importance** over relevance, but:
+**Let's introduce "moralizing" filters!**
 
-* this requires human intervention and choice
-* using an algorithm is still a non-neutral choice!
+* Would it be a good idea to make multinational companies **moralizing agents**?
+    * Paternalistic, technocratic approach
+* Active, educated citizens should be able to **autonomously search and retrieve information**
+    * not just "ingest" whatever is thrown at them
 
 
 ## Make the algorithms transparent
@@ -177,7 +192,7 @@ Governments could banish personalization or control it in some form
 ## Turn off the personalization!
 
 * What if we could **turn off the personalization**?
-* Personalization is the key feature of most services
+* Personalization is the key feature of many services
     * Facebook without personalization would be... Twitter?
 * Without personalization **ads would be less relevant** and profitable: no economic incentive to do so
 * Users should at least know **whether** personalization is enabled or not
@@ -193,4 +208,4 @@ Governments could banish personalization or control it in some form
     * "Too good" to get rid of them
     * Users should be aware of them
     * Users should be able to control them
-* Biggest risk: **deliberate use of filters to shape the public opinion**
+* Always prioritizing relevance over importance isn't a good idea
