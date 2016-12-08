@@ -7,7 +7,7 @@
 > – Mark Zuckerberg
 
 ## What is the filter bubble?
-![*A unique universe of information for each of us* [@pariser2011]](images/FilterBubble.png)
+![*A unique universe of information for each of us* [@pariser2011, p. 10]](images/FilterBubble.png){width=85%}
 
 ## Definitions
 
@@ -27,7 +27,7 @@
 
 \footnotesize
 
-> **Political pluralism** in the media refers to the fair and diverse representation of and expression by (i.e. passive and active access) various political and ideological groups, including minority viewpoints and interests, in the media. [@leuven2009]
+> **Political pluralism** in the media refers to the fair and diverse representation of and expression by (i.e. passive and active access) various political and ideological groups, including minority viewpoints and interests, in the media. [@leuven2009, p. 12]
 
 ## Personalizing filters and information
 
