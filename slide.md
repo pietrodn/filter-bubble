@@ -132,28 +132,6 @@ The **ranking** of a story in the News Feed is very important!
 ![Click rate depends on the position of the story in the News Feed.](images/PositionNewsFeed.pdf){width=100%}
 
 
-## Google: the classical relevance model
-**Relevance** according to **PageRank**: a page is important if it's linked by important pages
-
-* Each incoming link, weighted by the relevance of its source, contributes to the relevance of the page
-* **Universal ranking**: the PageRank algorithm is independent from the user who's querying
-
-![Visual representation of PageRank](images/PageRank.png){width=60%}
-
-
-## Google: relevance is now personal
-
-**There is no "standard Google" anymore!**
-
-* 2009: Google extended personalized search also to logged off users
-* Google uses 57 *signals* to personalize the search results
-* Example: a search for "Egypt" can yield different results:
-    1. Protests and political issues
-    2. Travel and vacation information
-* More and more difficult to find *what we don't know we want*
-
-Researchers found out that in Google searches **11.7% of results show differences** due to personalization [@hannak2013]
-
 # Proposed remedies and counter-objections
 
 ## Moralizing filters
@@ -174,14 +152,7 @@ We need media that prioritizes **importance** over relevance, but:
 
 ## Make the algorithms transparent
 
-\footnotesize
-
-> I’m of the opinion that algorithms must be made more transparent, so that one can inform oneself as an interested citizen about questions like ‘what influences my behaviour on the internet and that of others?’
-> Algorithms, when they are not transparent, can lead to a distortion of our perception, they can shrink our expanse of information.
-
-> – Angela Merkel [-@merkel2016]
-
-\normalsize
+What if the **algorithms** and/or some of the **data** were **public**?
 
 * The inner working of complex neural networks and machine learning agents is not intuitively understandable
     * Even if published, we may not understand those algorithms
