@@ -44,7 +44,7 @@ In this presentation, I will show that:
 
 ## The dangers of personalization
 
-The book *The Filter Bubble* by Eli Pariser [@pariser2011] describes many risks associated with it:
+The book *The Filter Bubble* [@pariser2011] describes many risks associated with it:
 
 * Data collection and privacy
 * Democracy
@@ -57,14 +57,14 @@ The book *The Filter Bubble* by Eli Pariser [@pariser2011] describes many risks 
 
 ## Information
 
-* **Friendly world syndrome**: some of the most important problem don't reach our view at all
+* **Friendly world syndrome**: some of the most important problems don't reach our view at all
     * We can miss major news and events
     * This is not possible with traditional newspapers
 * In the filter bubble, the **public sphere** is less relevant
 * Filters block **important, unpleasant things** that we *should* care about
     * Some topics will always be *not likable*: war, homelessness, poverty...
 * *Relevance* is the only metric, and *importance* matters less
-* The **choice** about what to read is no more in readers' hands
+* **Autonomy** of the reader is compromised
     * Readers are not exposed to contents inside their personal bubble
 * Worst case scenario: **deliberate use of filters to shape the public opinion**
 
