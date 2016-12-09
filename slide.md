@@ -64,7 +64,7 @@ The book *The Filter Bubble* [@pariser2011] describes many risks associated with
 * In the filter bubble, the **public sphere** is less relevant
 
 * **Autonomy** of the reader is compromised
-    * Readers are not exposed to contents inside their personal bubble
+    * Readers are not exposed to contents outside their personal bubble
 * Worst case scenario: **deliberate use of filters to shape the public opinion**
 
 ## Importance vs. Relevance
@@ -101,7 +101,7 @@ Suppose that you are a Facebook user and you identify as a **liberal**, and you 
 
 Facebook published a study [@bakshy2015] on *Science* about how likely are users to **view and interact with *cross-cutting content***.
 
-![Exposure stages of news stories](images/ExposureStages.pdf){width=70%}
+![Exposure stages of news stories](images/ExposureStages_flat.pdf){width=80%}
 
 1. *Potential from network*: all the content shared by friends
 2. *Exposed*: content effectively shown in users' News Feeds
