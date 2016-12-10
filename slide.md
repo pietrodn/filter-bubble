@@ -23,17 +23,18 @@
 
 > **Political pluralism** in the media refers to the fair and diverse representation of and expression by (i.e. passive and active access) various political and ideological groups, including minority viewpoints and interests, in the media. [@leuven2009, p. 12]
 
-## Personalizing filters and information
+## What I will show
 
 In this presentation, I will show that:
 
-> **Personalized content filters may be harmful for the plurality of information**, when citizens and readers are not fully aware of them
-
-* filters give us what we like, not what we need
-* pluralism and diversity of opinions are compromised
-* *relevance* shouldn't be the only metric to suggest content to show
-* even if they seem "fair", **these algorithms are not neutral**
-
+* **Personalization reduces information pluralism** by giving users only what they like to see
+* Recommender systems are **relevance maximizers**
+    * Important, but non relevant, stories can be left out
+    * Different point of views are shown less
+* Personalizing algorithms are "too good" to get rid of them
+* **Transparency** about the use of data and about the algorithms is needed
+    * Users must know when personalization is active
+    * Users should be able to control them
 
 # Concerns about the Filter Bubble
 
@@ -198,10 +199,7 @@ What if the **algorithms** and/or some of the **data** were **public**?
 ## Conclusions
 
 * **Personalization reduces information pluralism** by giving users only what they like to see
-* Recommender systems are **relevance maximizers**
-    * Important, but non relevant, stories can be left out
-    * Cross-cutting content is penalized
-* Personalizing algorithms are "too good" to get rid of them
+* Recommender systems privilege **relevance** over importance
+* Personalizing algorithms are "too good": can't turn them off
 * **Transparency** about the use of data and about the algorithms is needed
-    * Users must know when personalization is active
-    * Always use those services with a critical eye!
+* Always use those services with a **critical eye**!
