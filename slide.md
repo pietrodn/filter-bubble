@@ -7,21 +7,21 @@
 
 ### Personalized search
 
-\footnotesize
+\small
 
 > **Personalized search** refers to search experiences that are tailored specifically to an individual's interests by incorporating information about the individual beyond specific query provided. (Wikipedia)
 
 ### Filter bubble
 
-\footnotesize
+\small
 
 > A **filter bubble** is the  restriction of a user's perspective that can be created by personalized search technologies. [@whatis]
 
 ### Political pluralism in the media
 
-\footnotesize
+\small
 
-> **Political pluralism** in the media refers to the fair and diverse representation of and expression by (i.e. passive and active access) various political and ideological groups, including minority viewpoints and interests, in the media. [@leuven2009, p. 12]
+> **Political pluralism** in the media refers to the fair and diverse representation of and expression by various political and ideological groups, including minorities, in the media. [@leuven2009, p. 12]
 
 ## What I will show
 
@@ -29,12 +29,12 @@ In this presentation, I will show that:
 
 * **Personalization reduces information pluralism** by giving users only what they like to see
 * Recommender systems are **relevance maximizers**
-    * Important, but non relevant, stories can be left out
+    * Important, non-relevant stories can be left out
     * Different point of views are shown less
 * Personalizing algorithms are "too good" to get rid of them
 * **Transparency** about the use of data and about the algorithms is needed
     * Users must know when personalization is active
-    * Users should be able to control them
+    * Users should be able to control it
 
 # Concerns about the Filter Bubble
 
