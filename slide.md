@@ -1,11 +1,5 @@
 # Introduction
 
-## A provoking quote
-
-> “A squirrel dying in front of your house may be more relevant to your interests right now than people dying in Africa.”
-
-> – Mark Zuckerberg (Facebook CEO)
-
 ## What is the filter bubble?
 ![*A unique universe of information for each of us* [@pariser2011, p. 10]](images/FilterBubble.png){width=85%}
 
@@ -21,7 +15,7 @@
 
 \footnotesize
 
-> A **filter bubble** is a result of a personalized search in which a website algorithm selectively guesses what information a user would like to see based on information about the user (such as location, past click behavior and search history). (Wikipedia)
+> A **filter bubble** is the  restriction of a user's perspective that can be created by personalized search technologies. [@whatis]
 
 ### Political pluralism in the media
 
@@ -35,10 +29,10 @@ In this presentation, I will show that:
 
 > **Personalized content filters may be harmful for the plurality of information**, when citizens and readers are not fully aware of them
 
-* filters alter our perception of the world
-* information given to citizens should be not filtered according to what they like
+* filters give us what we like, not what we need
+* pluralism and diversity of opinions are compromised
 * *relevance* shouldn't be the only metric to suggest content to show
-* even if they seem fair, **these algorithms are not neutral**
+* even if they seem "fair", **these algorithms are not neutral**
 
 
 # Concerns about the Filter Bubble
@@ -56,31 +50,39 @@ The book *The Filter Bubble* [@pariser2011] describes many risks associated with
 * Serendipity
 
 
-## Information
-
-* **Friendly world syndrome**: some of the most important problems don't reach our view at all
-    * We can miss major news and events
-    * This is not possible with traditional newspapers
-* In the filter bubble, the **public sphere** is less relevant
-
-* **Autonomy** of the reader is compromised
-    * Readers are not exposed to contents outside their personal bubble
-* Worst case scenario: **deliberate use of filters to shape the public opinion**
-
-## Importance vs. Relevance
+## Importance vs. relevance of news stories
 
 Two metrics can be defined for news stories:
 
 * **Importance**: intrinsic "value" of a story with respect to society
-* **Relevance**: probability that a story will be liked by the user; performance index of the recommender system
+* **Relevance**: probability that a story will be "liked" by the user; performance index of the recommender system
 
 Recommender systems (personalizing filters) are **relevance maximizers**
 
-* Filters block **important, unpleasant things** that we *should* care about
-    * Some topics will always be *not likable*: war, homelessness, poverty...
-* We need media that prioritizes **importance** over relevance, but:
-    * this requires human intervention and choice
-    * using an algorithm is still a non-neutral choice!
+### Example
+
+> “A squirrel dying in front of your house may be more **relevant** to your interests right now than people dying in Africa.”
+
+> – Mark Zuckerberg (Facebook CEO)
+
+
+## Concerns about information
+
+### Friendly world syndrome
+
+Filters block *important*, but *unpleasant* things
+
+* Some **topics** will always be *not likable*: war, homelessness, poverty...
+* Different **point of views** are less *relevant* to us
+
+### Autonomy
+
+**Autonomy** of the reader is compromised, because they can't choose what's in or what's out their "bubble"
+
+### Worst case scenario
+
+**Deliberate use of filters to shape the public opinion**, by governments or multinational companies
+
 
 # Case study: Facebook News Feed
 
@@ -91,7 +93,7 @@ Suppose that you are a Facebook user and you identify as a **liberal**, and you 
 * News Feed recommendation algorithm: **you get more posts which reflect what you like** (relevant to you)
 * You may not see conservatives' stories at all, if you interact less with your conservative friends
 * **Cross-cutting stories** (those different from our viewpoint) are less likely to reach us
-    * How big is this phenomenon?
+    * ...but how much?
 
 **89.4% of under-30 Italians** uses Facebook [@censis2016]
 
@@ -113,14 +115,15 @@ Facebook published a study [@bakshy2015] on *Science* about how likely are users
 
 ## Facebook study: conclusions
 
+* The effect of **News Feed ranking** on cross-cutting content is limited:
+    * -5% for liberals
+    * -8% for conservatives
 * The **friendship network** is the most important factor limiting the mix of content encountered in social media
     * if I have only friends of the same political affiliation, the filter bubble is obvious
 * **Individual choice** influences the exposure to cross-cutting content more than the News Feed filtering
-* The effect of **News Feed ranking** is limited:
-    * -5% for liberals
-    * -8% for conservatives
 
 \alert{Thus, Facebook says, any "filter bubble" is not due to the News Feed selection algorithm}
+
 
 ## Facebook study: criticism
 
@@ -180,14 +183,6 @@ What if the **algorithms** and/or some of the **data** were **public**?
 
 ![Facebook lets users customize some parameters of the News Feed algorithm](images/NewsFeedCustomize.png){width=80%}
 
-## Government oversight
-
-Problem: the personalizing filters are not regulated in a **democratic** way
-Governments could banish personalization or control it in some form
-
-* Information should be independent by the Government
-* The convergence of power of multinational companies and governments is dangerous
-
 
 ## Turn off the personalization!
 
@@ -202,10 +197,11 @@ Governments could banish personalization or control it in some form
 
 ## Conclusions
 
-* Personalization is **pervasive**
-* Personalizing filters return a **distorted image** of the world
-* They are a really good technology for many specific applications
-    * "Too good" to get rid of them
-    * Users should be aware of them
-    * Users should be able to control them
-* Always prioritizing relevance over importance isn't a good idea
+* **Personalization reduces information pluralism** by giving users only what they like to see
+* Recommender systems are **relevance maximizers**
+    * Important, but non relevant, stories can be left out
+    * Cross-cutting content is penalized
+* Personalizing algorithms are "too good" to get rid of them
+* **Transparency** about the use of data and about the algorithms is needed
+    * Users must know when personalization is active
+    * Always use those services with a critical eye!
