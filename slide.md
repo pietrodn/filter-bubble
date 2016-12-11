@@ -28,10 +28,10 @@
 In this presentation, I will show that:
 
 * **Personalization reduces information pluralism** by giving users only what they like to see
+* Personalizing filters **define our perception** of the world and are not *neutral intermediaries*
 * Recommender systems are **relevance maximizers**
     * Important but non-relevant stories can be left out
     * Different point of views are shown less
-* Personalizing algorithms are "too good" to get rid of them
 * **Transparency** about the use of data and about the algorithms is needed
     * Users must know when personalization is active
     * Users should be able to control it
@@ -200,6 +200,6 @@ What if the **algorithms** and/or some of the **data** were **public**?
 
 * **Personalization reduces information pluralism** by giving users only what they like to see
 * Recommender systems privilege **relevance** over importance
-* Personalizing algorithms are "too good": can't turn them off
+* These technologies and their implementations are **not neutral**
 * **Transparency** about the use of data and about the algorithms is needed
 * Always use those services with a **critical eye**!
