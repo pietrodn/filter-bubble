@@ -29,7 +29,7 @@ In this presentation, I will show that:
 
 * **Personalization reduces information pluralism** by giving users only what they like to see
 * Recommender systems are **relevance maximizers**
-    * Important, non-relevant stories can be left out
+    * Important but non-relevant stories can be left out
     * Different point of views are shown less
 * Personalizing algorithms are "too good" to get rid of them
 * **Transparency** about the use of data and about the algorithms is needed
@@ -116,14 +116,14 @@ Facebook published a study [@bakshy2015] on *Science* about how likely are users
 
 ## Facebook study: conclusions
 
-* The effect of **News Feed ranking** on cross-cutting content is limited:
+1. The **friendship network** is the most important factor limiting the mix of content encountered in social media
+    * if I have only friends of the same political affiliation, the filter bubble is obvious
+2. The effect of **News Feed ranking** on cross-cutting content is limited:
     * -5% for liberals
     * -8% for conservatives
-* The **friendship network** is the most important factor limiting the mix of content encountered in social media
-    * if I have only friends of the same political affiliation, the filter bubble is obvious
-* **Individual choice** influences the exposure to cross-cutting content more than the News Feed filtering
+3. **Individual choice** influences the exposure to cross-cutting content more than the News Feed filtering
 
-\alert{Thus, Facebook says, any "filter bubble" is not due to the News Feed selection algorithm}
+> [...] we conclusively establish that on average in the context of Facebook, **individual choices more than algorithms limit exposure to attitude-challenging content** [@bakshy2015]
 
 
 ## Facebook study: criticism
@@ -177,19 +177,19 @@ What if the **algorithms** and/or some of the **data** were **public**?
     * Even if published, we may not understand those algorithms
 * They are often **trade secrets**
 * Knowing at least **which personal data** is used to make the recommendation may prove useful
-* **Open-sourcing** some critical services may be a solution
 
 
 ## Facebook News Feed settings
 
-![Facebook lets users customize some parameters of the News Feed algorithm](images/NewsFeedCustomize.png){width=80%}
+![A rather good solution: Facebook lets users **see and customize** some parameters of the News Feed algorithm](images/NewsFeedCustomize.png){width=80%}
 
 
 ## Turn off the personalization!
 
 * What if we could **turn off the personalization**?
-* Personalization is the key feature of many services
+* Personalization is the key feature of some services
     * Facebook without personalization would be... Twitter?
+    * For other services, this would be a feasible solution
 * Without personalization **ads would be less relevant** and profitable: no economic incentive to do so
 * Users should at least know **whether** personalization is enabled or not
 
