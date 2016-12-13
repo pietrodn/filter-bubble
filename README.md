@@ -1,4 +1,4 @@
-# The Filter Bubble: a threat for democracy?
+# The Filter Bubble: a threat for plural information?
 
 Slides for the [Computer Ethics](http://home.deib.polimi.it/schiaffo/CE/) course at Politecnico di Milano.
 
