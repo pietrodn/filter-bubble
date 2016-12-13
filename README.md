@@ -2,6 +2,8 @@
 
 Slides for the [Computer Ethics](http://home.deib.polimi.it/schiaffo/CE/) course at Politecnico di Milano.
 
+You can **[download the PDF](https://github.com/pietrodn/filter-bubble/raw/master/slide.pdf)** of my slides.
+
 ## How these slides were made
 
 The slides are written in Markdown and compiled into LaTeX with [Pandoc](http://pandoc.org/).

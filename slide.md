@@ -71,14 +71,14 @@ Recommender systems (personalizing filters) are **relevance maximizers**
 
 ### Friendly world syndrome
 
-Filters block *important*, but *unpleasant* things
+Personalizing filters block *important*, but *unpleasant* things:
 
 * Some **topics** will always be *not likable*: war, homelessness, poverty...
 * Different **point of views** are less *relevant* to us
 
 ### Autonomy
 
-**Autonomy** of the reader is compromised, because they can't choose what's in or what's out their "bubble"
+**Autonomy** of the readers is compromised, as they can't choose what's in or what's out their "bubble"
 
 ### Worst case scenario
 
